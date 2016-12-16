@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC7_2 Pin=U2-1
+Removed Pin From Net: NetName=NetR16_2 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=-12V Pin=U2-4
+Removed Pin From Net: NetName=+12V Pin=U2-8
+Removed Member From Class: ClassName=Maximizer Member=U23
+Change Component Designator: OldDesignator=U23 NewDesignator=U2
+Added Pin To Net: NetName=NetC7_2 Pin=U2-1
+Added Pin To Net: NetName=NetR16_2 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
