@@ -1,30 +1,14 @@
-Output: ODB++ Files
-Type  : ODB
-From  : Variant [[No Variations]] of PCB Document [SoundNicerPCB.PcbDoc]
-   Generated File[matrix]
-   Generated File[profile]
-   Generated File[stephdr]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[tools]
-   Generated File[features]
-   Generated File[features]
-   Generated File[components]
-   Generated File[features]
-   Generated File[components]
-   Generated File[data]
-   Generated File[netlist]
-   Generated File[SoundNicer.REP]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:50:00 AM On 12/19/2016
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [Maximizer.SchDoc]
+   Generated File[SoundNicer.xlsx]
 
 
-Files Generated   : 21
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 2:47:44 PM On 12/16/2016
+Finished Output Generation At 8:50:05 AM On 12/19/2016
