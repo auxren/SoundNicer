@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for SonicMaximizer
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -140,338 +140,170 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=Project Outputs for SonicMaximizer\Design Rule Check - SoundNicerPCB.html
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottomoverlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottompaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottomsolder\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\keepout\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\topoverlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\toppaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\topsolder\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\bottomoverlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\keepout\features
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\topoverlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\topsolder\features
 DItemRevisionGUID=
 
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument33]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument35]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument37]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Free Documents\NC Drill\SoundNicer.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument39]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for SonicMaximizer\NC Drill\SoundNicer.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument40]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument41]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument43]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument45]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument46]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument47]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument48]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument49]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument50]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument51]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument52]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument53]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument54]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument55]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument56]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument57]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument58]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument59]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument60]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument61]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument62]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument63]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument64]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument65]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument66]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument67]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument68]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument69]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument70]
-DocumentPath=Project Outputs for Free Documents\NC Drill\SoundNicer.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument71]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for SonicMaximizer\NC Drill\SoundNicer.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument72]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.REP
-DItemRevisionGUID=
-
-[GeneratedDocument73]
-DocumentPath=Project Outputs for Free Documents\ODB\SoundNicer.REP
-DItemRevisionGUID=
-
-[GeneratedDocument74]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.REP
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\SoundNicer.REP
 DItemRevisionGUID=
 
-[GeneratedDocument76]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument77]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for SonicMaximizer\Gerber\SoundNicer.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument78]
-DocumentPath=Project Outputs for Free Documents\NC Drill\SoundNicer.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument79]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for SonicMaximizer\NC Drill\SoundNicer.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument80]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for SonicMaximizer\BOM\SoundNicer.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument81]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument82]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument83]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument84]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -485,7 +317,7 @@ OutputJobsCount=0
 ContentTypeGUID=
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for SonicMaximizer
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1089,6 +921,46 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad SDT Schematic
+OutputName12=Orcad SDT Schematic (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Orcad v7 Capture Design
+OutputName13=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD ASCII
+OutputName14=P-CAD ASCII (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD V16 Schematic Design
+OutputName15=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Protel PCB 2.8 ASCII
+OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
