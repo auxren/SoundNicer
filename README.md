@@ -7,4 +7,4 @@ Based off the CoolAudio V2153M
 
 
 Mouser cart: http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=f5fc4c651f 
-Still needs V2153, pots, jacks, and power header. 
+Still needs V2153, pots, jacks, and power header. V2153 is available from SmallBear Electronics in the US. Not sure about international distributors. 
