@@ -1,10 +1,14 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of PCB Document [SoundNicerPCB.PcbDoc]
-   Generated File[SoundNicer.txt]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:01:15 PM On 1/29/2017
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [Maximizer.SchDoc]
+   Generated File[SoundNicer.xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 8:17:23 AM On 1/17/2017
+Finished Output Generation At 5:01:21 PM On 1/29/2017
