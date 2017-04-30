@@ -6,5 +6,5 @@ Simple input and output with process and contour knobs.
 Based off the CoolAudio V2153M
 
 
-Mouser cart: http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=f5fc4c651f 
+Mouser cart: http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=db3011bba3 
 Still needs V2153, pots, jacks, and power header. 
