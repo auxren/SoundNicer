@@ -7,4 +7,4 @@ Based off the CoolAudio V2153M
 
 
 Mouser cart: http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=db3011bba3 
-Still needs V2153, pots, jacks, and power header. 
+Still needs V2153, pots, and jacks. 
