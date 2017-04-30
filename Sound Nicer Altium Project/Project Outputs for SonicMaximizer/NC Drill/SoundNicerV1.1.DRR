@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SoundNicerPCB.PcbDoc   4/29/2017  8:13:57 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SoundNicerV1.1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             49        PTH        13.63inch (346.32mm)
+T2      12mil (0.3mm)                                             Round             29        PTH        5.57inch (141.39mm)
+T3      28mil (0.711mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T4      30mil (0.762mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T5      35mil (0.9mm)                                             Round             10        PTH        0.90inch (22.86mm)
+T6      39mil (1mm)                                               Round             6         PTH        1.81inch (45.85mm)
+T7      59mil (1.5mm)                                             Round             6         PTH        1.14inch (28.93mm)
+T8      87mil (2.2mm)                                             Round             4         PTH        1.59inch (40.38mm)
+T9      118mil (3mm)                                              Round             2         PTH        0.69inch (17.53mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              108
+
+Total Processing Time (hh:mm:ss) : 00:00:00

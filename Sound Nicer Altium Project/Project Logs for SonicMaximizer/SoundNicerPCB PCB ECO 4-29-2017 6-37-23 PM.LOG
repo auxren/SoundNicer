@@ -1,0 +1,403 @@
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=+12V Pin=C12-2
+Removed Pin From Net: NetName=-12V Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=NetC3_2 Pin=R9-1
+Removed Pin From Net: NetName=NetC3_1 Pin=R9-2
+Removed Pin From Net: NetName=NetC5_1 Pin=R12-1
+Removed Pin From Net: NetName=NetC3_2 Pin=R12-2
+Removed Pin From Net: NetName=NetR11_2 Pin=R13-1
+Change Component Footprint: Designator=C12 Old Footprint=CAPC0805(2012)75_N New Footprint=CAPC0603(1608)100_M
+Change Component Footprint: Designator=C14 Old Footprint=CAPC0805(2012)75_N New Footprint=CAPC0603(1608)100_M
+Change Component Footprint: Designator=U2 Old Footprint=D0008A_L New Footprint=D0008A_N
+Change Component Comment : Designator=C4 Old Comment=0. New Comment=0.47uF
+Change Component Comment : Designator=C6 Old Comment=0. New Comment=0.47uF
+Change Component Comment : Designator=C7 Old Comment=0. New Comment=0.47uF
+Change Component Comment : Designator=C2 Old Comment=0. New Comment=2.2uF
+Change Component Comment : Designator=C8 Old Comment=0. New Comment=2.2uF
+Change Component Comment : Designator=C9 Old Comment=0. New Comment=2.2uF
+Change Component Comment : Designator=C3 Old Comment=0. New Comment=3.3nF
+Change Component Comment : Designator=C5 Old Comment=0. New Comment=33nF
+Change Component Comment : Designator=C10 Old Comment=0. New Comment=100nF
+Change Component Comment : Designator=C1 Old Comment=0. New Comment=100pF
+Change Component Comment : Designator=R3 Old Comment=13.3k New Comment=820
+Change Component Comment : Designator=R4 Old Comment=13.3k New Comment=820
+Change Component Comment : Designator=Contour Old Comment=50k New Comment=B10k
+Change Component Comment : Designator=Process Old Comment=50k New Comment=B10k
+Change Component Comment : Designator=R16 Old Comment=100k New Comment=75k
+Change Component Comment : Designator=R19 Old Comment=100k New Comment=75k
+Change Component Designator: OldDesignator=Contour NewDesignator=VR1
+Change Component Designator: OldDesignator=IN NewDesignator=J1
+Change Component Designator: OldDesignator=OUT NewDesignator=J2
+Change Component Designator: OldDesignator=Process NewDesignator=VR2
+Change component parameters: Designator = "P1"; Footprint = "HDR2X5"; UniqueID = "\IBYRBETX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\OQXRNHBW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "81-GCM188R71E474KA4J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "GCM188R71E474KA64J"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\IJPDNWVB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "81-GCM188R71E474KA4J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "GCM188R71E474KA64J"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\AQLOCUHM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "81-GCM188R71E474KA4J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "GCM188R71E474KA64J"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\ECYDNPPX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "581-MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11"; Footprint = "NIC-CAPA2-4X5.8_V"; UniqueID = "\UXDDXXHE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "647-UUD1E100MCL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "UUD1E100MCL1GS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\WYFFEETC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "581-MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13"; Footprint = "NIC-CAPA2-4X5.8_V"; UniqueID = "\PUOUIVWF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "647-UUD1E100MCL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "UUD1E100MCL1GS"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\SEXFICII"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "581-MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "MM035C104KCZ2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "DIOD-SOD-123-2_V"; UniqueID = "\OUKYIGIS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "621-1N5819HW-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "DIOD-SOD-123-2_V"; UniqueID = "\FNHFCLOV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "621-1N5819HW-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "1N5819HW-7-F"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "D0008A_N"; UniqueID = "\WQBVDFJV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "511-TL072IDT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "ST Micro"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "TL072IDT"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\FPFRYVCC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "581-06032A101JAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "06032A101JAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolderance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\RKCMWWFT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "81-GRM188R61E225KA2D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "GRM188R61E225KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolderance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\IROCTDSI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "581-06035A332JAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "06035A332JAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolderance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\FERQHMXF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "81-GRM188R71H333KA61"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "GRM188R71H333KA61D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolderance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\UMMCLDKO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "81-GRM188R61E225KA2D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "GRM188R61E225KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolderance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "CAPC0603(1608)100_M"; UniqueID = "\EEDGHLBM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "81-GRM188R61E225KA2D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "GRM188R61E225KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolderance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "RESC0603(1608)_M"; UniqueID = "\DLWIFWXN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RG1608P-2152DT5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RG1608P-2152-D-T5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "21.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "RESC0603(1608)_M"; UniqueID = "\LJIVYNEJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RG1608P-2152DT5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RG1608P-2152-D-T5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "21.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RESC0603(1608)_M"; UniqueID = "\CKOUELXQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RR0816P-1332D13C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RR0816P-1332-D-13C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "820"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "RESC0603(1608)_M"; UniqueID = "\SQQSLITL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RR0816P-1332D13C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RR0816P-1332-D-13C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "820"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RESC0603(1608)_M"; UniqueID = "\YPFHHIPD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RR0816P-103D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RR0816P-103-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "RESC0603(1608)_M"; UniqueID = "\OQGFCLCA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RR0816P-1822D26C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RR0816P-1822-D-26C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "18.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "RESC0603(1608)_M"; UniqueID = "\XOVAYRWN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RG1608P-2152DT5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RG1608P-2152-D-T5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "21.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "RESC0603(1608)_M"; UniqueID = "\JWSAYDWA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "660-RK73H1JTTD3922F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "KOA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RK73H1JTTD3922F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "39.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "RESC0603(1608)_M"; UniqueID = "\IVIIWTBF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RG1608P-2152DT5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RG1608P-2152-D-T5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "21.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "RESC0603(1608)_M"; UniqueID = "\OADMKGKR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RG1608P-2152DT5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RG1608P-2152-D-T5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "21.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "RESC0603(1608)_M"; UniqueID = "\JESHBIMH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RG1608P-2152DT5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RG1608P-2152-D-T5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "21.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12"; Footprint = "RESC0603(1608)_M"; UniqueID = "\SSKNFUSE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RG1608P-2152DT5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RG1608P-2152-D-T5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "21.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "RESC0603(1608)_M"; UniqueID = "\SAINLHRK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RG1608P-2152DT5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RG1608P-2152-D-T5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "21.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14"; Footprint = "RESC0603(1608)_M"; UniqueID = "\PBEHHXIT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RG1608P-2152DT5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RG1608P-2152-D-T5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "21.5k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15"; Footprint = "RESC0603(1608)_M"; UniqueID = "\ROIAUTVR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "660-RN73H1JT1062D100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Koa"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RN73H1JTTD1062D100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10.6k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16"; Footprint = "RESC0603(1608)_M"; UniqueID = "\IBAUPCKM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RR0816P-104D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RR0816P-104-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17"; Footprint = "RESC0603(1608)_M"; UniqueID = "\DCEMVXMJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RR0816P-104D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RR0816P-104-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18"; Footprint = "RESC0603(1608)_M"; UniqueID = "\PLDNWOCK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RR0816P-104D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RR0816P-104-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19"; Footprint = "RESC0603(1608)_M"; UniqueID = "\VSQMKXFT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RR0816P-104D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RR0816P-104-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR1"; Footprint = "SonGueiPot"; UniqueID = "\USPXVAMN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.bourns.com/data/global/pdfs/3006.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.bourns.com/data/global/pdfs/3006.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Apr-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Turns"; Value = "15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin THD, Body 19.05 x 4.83 mm, Height 6.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "3006P-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Apr-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "3006P-7-502ZLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (kOhm)"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "+/- 10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rotational Life"; Value = "200 Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR2"; Footprint = "SonGueiPot"; UniqueID = "\ICPUPGJY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.bourns.com/data/global/pdfs/3006.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.bourns.com/data/global/pdfs/3006.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Apr-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Turns"; Value = "15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin THD, Body 19.05 x 4.83 mm, Height 6.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "3006P-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Apr-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "3006P-7-502ZLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance (kOhm)"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "+/- 10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rotational Life"; Value = "200 Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor_Pn"; Value = "581-MM035C104KCZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Pn"; Value = "MM035C104KCZ2A"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC0603(1608)100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor_Pn"; Value = "581-MM035C104KCZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Pn"; Value = "MM035C104KCZ2A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=-12V Pin=C14-2
+Added Pin To Net: NetName=+12V Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=-12V Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=NetC3_1 Pin=R9-1
+Added Pin To Net: NetName=NetC3_2 Pin=R9-2
+Added Pin To Net: NetName=NetC3_2 Pin=R12-1
+Added Pin To Net: NetName=NetC5_1 Pin=R12-2
+Added Pin To Net: NetName=NetR11_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=R14-2
+Added Pin To Net: NetName=NetR13_1 Pin=U1-12
+Added Net: Name=NetR13_1
+Added Member To Class: ClassName=Maximizer Member=Component C15 100nF
+Added Member To Class: ClassName=Maximizer Member=Component C16 100nF
+Added Member To Class: ClassName=Maximizer Member=Component U2 TL072ID
+Added Room: Name=Maximizer

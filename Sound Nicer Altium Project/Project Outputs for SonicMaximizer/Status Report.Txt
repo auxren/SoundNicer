@@ -1,14 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 5:01:15 PM On 1/29/2017
-
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Schematic Document [Maximizer.SchDoc]
-   Generated File[SoundNicer.xlsx]
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [SoundNicerPCB.PcbDoc]
+   Generated File[SoundNicerV1.1.TXT]
+   Generated File[SoundNicerV1.1.LDP]
+   Generated File[SoundNicerV1.1.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 5:01:21 PM On 1/29/2017
+Finished Output Generation At 8:13:57 PM On 4/29/2017

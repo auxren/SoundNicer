@@ -1,0 +1,40 @@
+Change Component Designator: OldDesignator=IN NewDesignator=J1
+Change Component Designator: OldDesignator=OUT NewDesignator=J2
+Change component parameters: Designator = "R3"; Footprint = "RESC0603(1608)_M"; UniqueID = "\GPNGKXYA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RR0816P-821D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RR0816P-821-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "820"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "RESC0603(1608)_M"; UniqueID = "\SQQSLITL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RR0816P-821D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RR0816P-821-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "820"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16"; Footprint = "RESC0603(1608)_M"; UniqueID = "\IBAUPCKM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RR0816P-753D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RR0816P-753D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19"; Footprint = "RESC0603(1608)_M"; UniqueID = "\UWBQTKLC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor_Pn"; Value = "754-RR0816P-753D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr"; Value = "Susumu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Pn"; Value = "RR0816P-753D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "75k"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Maximizer Member=Component P1 Header 5X2
+Added Member To Class: ClassName=Maximizer Member=Component U1 V2153 Sound Enhancement IC
