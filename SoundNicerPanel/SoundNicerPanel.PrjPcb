@@ -39,13 +39,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Maximizer.SchDoc
+DocumentPath=SoundNicerPanel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -53,112 +53,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YYPIRVUU
+DocumentUniqueId=EXWOJFPL
 
 [Document2]
-DocumentPath=EurorackParts.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AHWRPPRM
-
-[Document3]
-DocumentPath=EurrackParts.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EUFLTIRU
-
-[Document4]
-DocumentPath=SoundNicerPCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RCJRGGVJ
-
-[Document5]
-DocumentPath=Job1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=SoundNicerPCBAssemblyDWG.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=PanelCoordinate.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XGLCWALD
-
-[Document8]
-DocumentPath=PanelCoordinate.PCBDwf
+DocumentPath=SoundNicerPanel.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -175,215 +73,103 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for SoundNicerPanel\NC Drill\SoundNicerPanel.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for SonicMaximizer\Design Rule Check - SoundNicerPCB.html
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottomoverlay\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottompaste\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottomsolder\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\keepout\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GM8
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GM9
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\topoverlay\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\toppaste\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\topsolder\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\drill\features
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\matrix\matrix
+DocumentPath=Project Outputs for SoundNicerPanel\NC Drill\SoundNicerPanel.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\matrix\matrix
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.REP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\NC Drill\SoundNicer.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for Free Documents\NC Drill\SoundNicer.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.REP
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for Free Documents\ODB\SoundNicer.REP
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for Free Documents\Gerber\SoundNicer.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for Free Documents\NC Drill\SoundNicer.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for SonicMaximizer\ODB\odb\steps\pcb\layers\drill\tools
+DocumentPath=Project Outputs for SoundNicerPanel\Gerber\SoundNicerPanel.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -404,108 +190,108 @@ Name=Netlist Outputs
 Description=
 TargetPrinter=Canon MF4800 Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=PCADNetlist
-OutputName1=PCAD Netlist
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=XSpiceNetlist
-OutputName2=XSpice Netlist
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=CadnetixNetlist
-OutputName3=Cadnetix Netlist
+OutputType3=EDIF
+OutputName3=EDIF for PCB
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=CalayNetlist
-OutputName4=Calay Netlist
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=EDIF
-OutputName5=EDIF for PCB
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=EESofNetlist
-OutputName6=EESof Netlist
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=IntergraphNetlist
-OutputName7=Intergraph Netlist
+OutputType7=MultiWire
+OutputName7=MultiWire
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=MentorBoardStationNetlist
-OutputName8=Mentor BoardStation Netlist
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=MultiWire
-OutputName9=MultiWire
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=OrCadPCB2Netlist
-OutputName10=Orcad/PCB2 Netlist
+OutputType10=Pcad
+OutputName10=Pcad for PCB
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=PADSNetlist
-OutputName11=PADS ASCII Netlist
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Pcad
-OutputName12=Pcad for PCB
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=PCADnltNetlist
-OutputName13=PCADnlt Netlist
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-OutputType14=Protel2Netlist
-OutputName14=Protel2 Netlist
+OutputType14=ProtelNetlist
+OutputName14=Protel
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-OutputType15=ProtelNetlist
-OutputName15=Protel
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-OutputType16=RacalNetlist
-OutputName16=Racal Netlist
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-OutputType17=RINFNetlist
-OutputName17=RINF Netlist
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=SciCardsNetlist
-OutputName18=SciCards Netlist
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=TangoNetlist
-OutputName19=Tango Netlist
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=TelesisNetlist
-OutputName20=Telesis Netlist
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=WireListNetlist
-OutputName21=WireList Netlist
+OutputType21=XSpiceNetlist
+OutputName21=XSpice Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
@@ -698,36 +484,34 @@ Name=Report Outputs
 Description=
 TargetPrinter=Canon MF4800 Series UFRII LT
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Script
-OutputName1=Script Output
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-OutputType2=SimpleBOM
-OutputName2=Simple BOM
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=SinglePinNetReporter
-OutputName3=Report Single Pin Nets
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=BOM_PartType
-OutputName4=Bill of Materials
+OutputType4=Script
+OutputName4=Script Output
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration4_Name1=ColumnNameFormat
-Configuration4_Item1=CaptionAsName
-OutputType5=ComponentCrossReference
-OutputName5=Component Cross Reference Report
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=ReportHierarchy
-OutputName6=Report Project Hierarchy
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: SoundNicerPanel.GBR   5/26/2017  7:47:01 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM1                Outline                                 
+.GM2                Mechanical 2                            
+.GM3                Mechanical 3                            
+.GM4                Mechanical 4                            
+.GM5                Mechanical 5                            
+.GM6                Mechanical 6                            
+.GM7                Mechanical 7                            
+.GM8                Mechanical 8                            
+.GM9                Mechanical 9                            
+------------------------------------------------------------------------------------------

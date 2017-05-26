@@ -1,0 +1,32 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [SoundNicerPanel.PcbDoc]
+   Generated File[SoundNicerPanel.GTL]
+   Generated File[SoundNicerPanel.GBL]
+   Generated File[SoundNicerPanel.GPB]
+   Generated File[SoundNicerPanel.GPT]
+   Generated File[SoundNicerPanel.GTO]
+   Generated File[SoundNicerPanel.GTP]
+   Generated File[SoundNicerPanel.GTS]
+   Generated File[SoundNicerPanel.GBS]
+   Generated File[SoundNicerPanel.GBP]
+   Generated File[SoundNicerPanel.GBO]
+   Generated File[SoundNicerPanel.GKO]
+   Generated File[SoundNicerPanel.GM1]
+   Generated File[SoundNicerPanel.GM2]
+   Generated File[SoundNicerPanel.GM3]
+   Generated File[SoundNicerPanel.GM4]
+   Generated File[SoundNicerPanel.GM5]
+   Generated File[SoundNicerPanel.GM6]
+   Generated File[SoundNicerPanel.GM7]
+   Generated File[SoundNicerPanel.GM8]
+   Generated File[SoundNicerPanel.GM9]
+   Generated File[SoundNicerPanel.RUL]
+   Generated File[SoundNicerPanel.EXTREP]
+   Generated File[SoundNicerPanel.REP]
+
+
+Files Generated   : 23
+Documents Printed : 0
+
+Finished Output Generation At 7:47:02 AM On 5/26/2017
